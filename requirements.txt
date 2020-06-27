@@ -1,0 +1,5 @@
+tensorflow==2.1.0
+editdistance==0.5.3
+numpy==1.18.1
+h5py==2.10.0
+numba==0.49.1
