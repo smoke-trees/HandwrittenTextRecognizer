@@ -2,8 +2,13 @@
 *ipynb_checkpoints/
 
 # Data 
-data/
 raw/
+*.png
+*.csv
+data/
 
 # Checkpoints
+*.h5
+*.hdf5
+*.model
 output/
